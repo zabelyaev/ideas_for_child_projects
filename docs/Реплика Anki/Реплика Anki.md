@@ -1,7 +1,5 @@
 # Реплика Anki
 
-Опубликовано: No
-
 # Задание
 
 Есть такое приложение для запоминания, на основе Flash карт - [https://apps.ankiweb.net](https://apps.ankiweb.net/)
