@@ -1,4 +1,4 @@
-# Morhuhn AR
+# Morhuhn AR VR MR
 
 Платформы и технологии: AR, MR, VR, Робототехника
 
