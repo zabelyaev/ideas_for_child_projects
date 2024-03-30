@@ -36,6 +36,7 @@
 | [Клиент для GPT систем](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20GPT%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC/%D0%9A%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%20%D0%B4%D0%BB%D1%8F%20GPT%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC.md)  | Десктоп, Веб, Мобилка, Боты, ИИ  |
 | [Morhuhn AR VR MR](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/Morhuhn%20AR%20VR%20MR/Morhuhn%20AR%20VR%20MR.md)  | AR, VR, MR, Робототехника  |
 | [Скриншот с генерацией QR-кода](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%81%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B5%D0%B8%CC%86%20QR-%D0%BA%D0%BE%D0%B4%D0%B0/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D1%81%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B5%D0%B8%CC%86%20QR-%D0%BA%D0%BE%D0%B4%D0%B0.md)  | Десктоп, Бэкенд  |
+| [Анонимные веб записки](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/Анонимные%20веб%20записки/Анонимные%20веб%20записки.md)  | Веб, Бэкенд  |
 | [Переводчик](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.md)  | Веб, Десктоп, Мобилка  |
 # Помощь
 Если у вас есть свои идеи или вы готовы дополнить/переписать ТЗ более грамотно, я буду рад любой помощи, давайте сделаем этот репозиторий большим, интересным и полезным!
