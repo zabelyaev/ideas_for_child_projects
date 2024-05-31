@@ -39,7 +39,7 @@
 | [Анонимные веб записки](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/Анонимные%20веб%20записки/Анонимные%20веб%20записки.md)  | Веб, Бэкенд  |  [VR for Dev](https://www.youtube.com/channel/UCIq0eLg3Ylr4HJF_7TK2hBw)  |
 | [Переводчик](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA.md)  | Веб, Десктоп, Мобилка  |  [VR for Dev](https://www.youtube.com/channel/UCIq0eLg3Ylr4HJF_7TK2hBw)  |
 | [AR VR MR Монополия](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/AR%20VR%20MR%20Монополия/AR%20VR%20MR%20Монополия.md)  | AR, MR, VR, Multiplayer  |  [VR for Dev](https://www.youtube.com/channel/UCIq0eLg3Ylr4HJF_7TK2hBw)  |
-| [Survival Game (выживалка на острове)](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/Survival%20Game/Survival%20Game.md)  | AR  |  [Varwin](https://varwin.com/ru/)  |
+| [Survival Game (выживалка на острове)](https://github.com/zabelyaev/ideas_for_child_projects/blob/main/docs/Survival%20Game/Survival%20Game.md)  | VR  |  [Varwin](https://varwin.com/ru/)  |
 # Помощь
 Если у вас есть свои идеи или вы готовы дополнить/переписать ТЗ более грамотно, я буду рад любой помощи, давайте сделаем этот репозиторий большим, интересным и полезным!
 Связаться со мной можно в VK - https://vk.com/zabelyaevroman
